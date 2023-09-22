@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+}
+
+.header{
+    min-height: 100vh;
+    width: 100%;
+    
+
+}
+.text{
+    
+    background-image: url(images/desktop-wallpaper-best-4-waste-on-hip-waste-management.jpg);
+    background-position: center;
+    background: linear-gradient(rgba(157, 173, 128, 0.7));
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 100%;
+    text-align:center;
+    
+}
+.heading{
+    font-size: 30px;
+    
+    color: rgb(0, 0, 0);
+}
+.file{
+    font-size: 15px;
+    color: rgb(12, 2, 40);
+    text-align:center;
+    background:transparent ;
+}
+
+
+.hero-btn{
+    display: inclined-block;
+    text-decoration: none;
+    color:rgb(0, 160, 253);
+    text-align:center;
+    border: 1px;
+    padding: 10px 34px;
+    font-size: 20px;
+    background: tranparent;
+    position: relative;
+    
+}
+.hero-btn:hover{
+    border: 1px solid #f44336;
+    background: #f44336;
+    transition: 1s;
+    
+}
+.waste{
+    margin: auto;
+    font-size: 20px;
+}
+.dom{
+  color: rgb(0, 93, 8);
+}
+.was{
+    color: rgb(109, 13, 1);
+2
+}
+.fac{
+    color: rgb(0, 93, 8);
+}
+.hd{
+    color:rgb(109, 13,1);
+}
+.how{
+    color: rgb(0, 93, 8);
+}
+.awar{
+    color: rgb(109, 13, 1);
+}
+
